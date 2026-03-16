@@ -1,0 +1,12 @@
+{
+  "id": "auto-ml-shoppy-portal-1773694737315",
+  "title": "Auto-Creación: ml-shoppy-portal",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Un sitio de tienda en linea. Los usuarios pueden pegar URLs de sus carritos de Mercado Libre. Debe simular la carga de productos con descripción, precio y enlace. Característica clave: Ofrecer un 20% de descuento total automático sobre el precio de ML. Flujo de pago: Botón de \"Pagar 50% Anticipo\" y aviso de \"50% restante al recibir en domicilio\". Diseño limpio inspirado en Mercado Libre (Amarillo y Azul).",
+      "timestamp": "2026-03-16T20:58:57.315Z"
+    }
+  ],
+  "updatedAt": "2026-03-16T20:58:57.325Z"
+}
